@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<cisco>
+<interfaces>
+<Ethernet0>
+<nameif>test</nameif>
+<ipaddress>10.10.88.50<netmask>255.255.255.254</netmask></ipaddress>
+</Ethernet0>
+<Ethernet1>
+<nameif>inside</nameif>
+<ipaddress>10.86.194.176<netmask>255.255.254.0</netmask></ipaddress>
+</Ethernet1>
+</interfaces>
+<password type="enable" encrypted="true">8Ry2YjIyt7RRXU24</password>
+<password type="passwd" encrypted="true">2KFQnbNIdI.2KYOU</password>
+<hostname>XXX</hostname>
+<policy-map>xxx_global_fw_policy</policy-map>
+<class name="inspection_default">
+<inspect>dns</inspect>
+<inspect>ftp</inspect>
+<inspect>http</inspect>
+<class>
+</cisco>

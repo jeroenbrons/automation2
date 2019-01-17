@@ -1,0 +1,6 @@
+> Socket luistert op poort: 8888
+> Verbonden met 127.0.0.1:58232
+76d0dd90f9abe188e7f9027f6d24cf0b
+76d0dd90f9abe188e7f9027f6d24cf0b
+
+[Errno 9] Bad file descriptor
